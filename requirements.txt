@@ -1,0 +1,4 @@
+dinteractions-Paginator
+discord-py-interactions>=4.1.0
+Levenshtein
+thefuzz
